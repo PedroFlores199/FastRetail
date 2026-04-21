@@ -35,7 +35,7 @@ async def index():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>FastRetail</title>
+        <title>FastRetail - Clasificador</title>
         <style>
             body { font-family: Arial, sans-serif; padding: 50px; background-color: #f4f4f9; }
             .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); max-width: 500px; margin: auto; }
