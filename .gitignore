@@ -1,0 +1,15 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Base de datos local
+*.db
+
+# Sistema
+.DS_Store
